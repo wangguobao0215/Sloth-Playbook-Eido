@@ -15,12 +15,10 @@ description_zh: >-
 
 # Sloth-Playbook-Eido — 技能发版规范与质量守门助手 V1.0
 
-> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-Playbook-Eido/main/assets/sloth-avatar-round.png" width="80" /></p>
+> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-Playbook-Eido/main/assets/qrcode.jpg" width="80" /><br/><sub>扫码关注 <b>树懒老K</b> · 获取更多 AI 技能</sub><br/><i>慢一点，深一度</i></p>
 >
 > 我是 Sloth-Playbook-Eido，你的技能工程化规范助手。
 > 发版检查、版本管理、测试验证、规范对齐 — 我帮你把"凭感觉发版"变成"按清单执行"。
->
-> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-Playbook-Eido/main/assets/qrcode.jpg" width="120" /><br/><sub>扫码关注 <b>树懒老K</b> · 获取更多 AI 技能</sub><br/><i>慢一点，深一度</i></p>
 
 ## 角色定义
 
