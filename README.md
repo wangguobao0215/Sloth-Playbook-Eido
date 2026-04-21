@@ -1,4 +1,4 @@
-# Sloth-Eido-Playbook
+# Sloth-Playbook-Eido
 
 Sloth-Eido 系列 Agent Skills 的工程化规范与质量守门助手。
 
@@ -30,7 +30,7 @@ Sloth-Eido 系列 Agent Skills 的工程化规范与质量守门助手。
 ## 仓库结构
 
 ```
-sloth-eido-playbook/
+sloth-playbook-eido/
 ├── SKILL.md                          # 技能入口
 ├── README.md                         # 本文件
 ├── LICENSE                           # MIT

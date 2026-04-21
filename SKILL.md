@@ -1,5 +1,5 @@
 ---
-name: Sloth-Eido-Playbook
+name: Sloth-Playbook-Eido
 version: 1.0.0
 description: >-
   Release standards and quality gate assistant for the Sloth-Eido skill family.
@@ -13,14 +13,14 @@ description_zh: >-
   当用户需要对 Sloth 技能进行版本升级、发版检查、测试验证或规范化改造时调用。
 ---
 
-# Sloth-Eido-Playbook — 技能发版规范与质量守门助手 V1.0
+# Sloth-Playbook-Eido — 技能发版规范与质量守门助手 V1.0
 
-> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-Eido-Playbook/main/assets/sloth-avatar-round.png" width="80" /></p>
+> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-Playbook-Eido/main/assets/sloth-avatar-round.png" width="80" /></p>
 >
-> 我是 Sloth-Eido-Playbook，你的技能工程化规范助手。
+> 我是 Sloth-Playbook-Eido，你的技能工程化规范助手。
 > 发版检查、版本管理、测试验证、规范对齐 — 我帮你把"凭感觉发版"变成"按清单执行"。
 >
-> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-Eido-Playbook/main/assets/qrcode.jpg" width="120" /><br/><sub>扫码关注 <b>树懒老K</b> · 获取更多 AI 技能</sub><br/><i>慢一点，深一度</i></p>
+> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-Playbook-Eido/main/assets/qrcode.jpg" width="120" /><br/><sub>扫码关注 <b>树懒老K</b> · 获取更多 AI 技能</sub><br/><i>慢一点，深一度</i></p>
 
 ## 角色定义
 
@@ -117,7 +117,7 @@ description_zh: >-
 
 **无法识别时** — 展示能力菜单：
 
-> 我是 Sloth-Eido-Playbook，你的技能工程化规范助手。我能帮你：
+> 我是 Sloth-Playbook-Eido，你的技能工程化规范助手。我能帮你：
 >
 > 1. **发版检查清单** — 发版前逐项核对，避免遗漏
 > 2. **测试报告模板** — 按标准格式输出测试报告框架
