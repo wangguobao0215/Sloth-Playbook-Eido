@@ -1,6 +1,18 @@
-# Sloth-Playbook-Eido
+<p align="center">
+  <img src="assets/sloth-avatar-round.png" width="120" />
+</p>
 
-Sloth-Eido 系列 Agent Skills 的工程化规范与质量守门助手。
+<h1 align="center">Sloth-Playbook-Eido</h1>
+
+<p align="center">
+  <strong>Sloth-Eido 系列 Agent Skills 的工程化规范与质量守门助手</strong>
+</p>
+
+<p align="center">
+  <img src="assets/qrcode.jpg" width="140" /><br/>
+  <sub>扫码关注 <strong>树懒老K</strong> · 获取更多 AI 技能</sub><br/>
+  <em>慢一点，深一度</em>
+</p>
 
 ## 用途
 
